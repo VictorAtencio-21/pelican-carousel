@@ -10,7 +10,7 @@ npm install
 pnpm install
 ```
 
-setup the env variables creating a `.env.local file`, they are:
+setup the env variables creating a `.env.local`, they are:
 
 ```
 UNSPLASH_ACCESS_KEY=KEY_SENT_ON_EMAIL
